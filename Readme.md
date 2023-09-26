@@ -49,3 +49,6 @@ Ich habe Heute den Web scraper geschrieben und konnte mit einem Youtube tutorial
 | Programm in VS gestartet |zB Wind stärke| Wind (zB. 5km/h)|
 - [ ]Dei Aufträge 1724 und -26 beim Modul 431 erledigen
 - [ ]Das Expertenziel 14 im Modul 431 erledigen
+
+## Reflexion
+Zu Beginn konte ich noch nichts programmieren und habe mir Videos angeschaut umm es zu lernen. Im Modul 319 konnte ich auch sehr viel lernen um dann mein erstes kleines Projekt zu starten. Ich habe angefangen einen Numberguesser zu machen und konnte mich eig sehr gut zurecht finden, da ich auch bei gebrauchter Hilfe das Internet benutzt habe. Mein zweites Projekt sollte ein Würfel werden, der nur bis 20 Würfelt und dannach aufhört. Da kamen dann so die ersten Probleme, bei denen ich auch länger gebraucht habe, aber zum Schluss kam es gut. Ich wollte dannach ein Hangman Programm erstellen, das war aber noch sehr schwierig und konnte es sogar mit tutorials nicht komplett verstehen. Nach dem Hangman Projekt kam mir die Idee einen Webscraper zu schreiben, dort kam ich wieder ein bischen besser klar und werde das auch noch vielleicht noch mehr ausbauen. Zum Schluss habe ich noch an dem Modul 431 gearbeitet und die Aufträge fertig gemacht welche ich im Unterricht nicht geschafft habe. (165 Wörter)
